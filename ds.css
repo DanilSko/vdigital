@@ -6,7 +6,7 @@ body {
   /*background-image: url(tolstoytoshow.png);*/
 }
 
-.jumbotron {background-image: url(dhlogo.png); background-size:10%; background-repeat:no-repeat; background-position:right top;}
+.jumbotron {background-image: url(dhlogo.png); background-size:5%; background-repeat:no-repeat; background-position:right top;}
 
 .issues {align:center;}
 

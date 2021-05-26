@@ -5,8 +5,8 @@ body {
   margin: 10;
   /*background-image: url(tolstoytoshow.png);*/
 }
-
-.jumbotron {background-image: url(dhlogo.png); background-size:5%; background-repeat:no-repeat; background-position:right top;}
+ 
+/*.jumbotron {background-image: url(vdh_logo_text.png);background-size:30%;  background-repeat:no-repeat; background-position:center top;}   background-size:5%; */
 
 .issues {align:center;}
 
